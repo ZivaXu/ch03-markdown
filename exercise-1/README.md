@@ -10,3 +10,6 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+> There is only one heroism in the world: to see the world as it is, and to love it. - Romain Rolland
+
+[Romain Rolland Info](https://en.wikiquote.org/wiki/Romain_Rolland)
